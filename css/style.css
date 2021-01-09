@@ -29,20 +29,20 @@ header{
 .home_text{
 	padding-top: 210px;
 	padding-bottom: 210px;
-	font-size: 50px;
+	font-size: 28px;
 	text-transform: uppercase;
 	font-family: 'Montserrat', sans-serif;
 }
 .home_text h2{
 	color: #010101;
-	font-size: 20px;
+	font-size: 50px;
 	text-transform: uppercase;
 	letter-spacing: 26px;
 	font-family: 'Montserrat', sans-serif;
 }
 .home_text p{
 	color: #404040;
-	font-size: 20px;
+	font-size: 28px;
 	text-transform: uppercase;
 }
 .home_text img{}
